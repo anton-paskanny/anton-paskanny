@@ -51,7 +51,3 @@ Senior Software Engineer with 7+ years of experience building modern web applica
 ### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anton-paskanny/)
-
----
-
-<p align="center">Thanks for visiting my profile! 🚀</p>
