@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Anton 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
-Senior Software Engineer with 7+ years of experience building modern web applications. Passionate about clean code, performance, and scalable solutions.
+I'm a Senior Software Engineer with 7+ years of experience building modern web applications. Passionate about clean code, performance, and scalable solutions.
 </p>
 
 ---
