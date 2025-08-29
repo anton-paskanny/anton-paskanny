@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-I'm a Senior Software Engineer with 7+ years of experience building modern web applications. Passionate about clean code, performance, and scalable solutions.
+I'm a Senior Software Engineer with 8 years of experience building modern web applications. Passionate about clean code, performance, and scalable solutions.
 </p>
 
 ---
@@ -10,7 +10,6 @@ I'm a Senior Software Engineer with 7+ years of experience building modern web a
 - 💻 Senior Software Engineer | Full-Stack Developer | Mentor
 - 🛠 Experienced with JavaScript, TypeScript, Node.js, React, Next.js, GraphQL, AWS, and more
 - 🎯 Focused on building maintainable, high-performance applications
-- 🤝 Open to collaboration and new opportunities
 
 ---
 
